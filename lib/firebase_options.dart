@@ -44,39 +44,39 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC1cQMTUFaYagGqwE9XfQAqhZan62m-SIg',
-    appId: '1:1006878898505:web:ed78860db5278f49098298',
-    messagingSenderId: '1006878898505',
-    projectId: 'flutter-revo-firsttest',
-    authDomain: 'flutter-revo-firsttest.firebaseapp.com',
-    storageBucket: 'flutter-revo-firsttest.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyADoLjMbf9091dJmaOwtpnZe7i-GztC3cA',
-    appId: '1:1006878898505:android:35c66b643663e44a098298',
-    messagingSenderId: '1006878898505',
-    projectId: 'flutter-revo-firsttest',
-    storageBucket: 'flutter-revo-firsttest.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDgDVfMHz_XPN6AeCJlLWx8w2xLG6s_QZY',
-    appId: '1:1006878898505:ios:49a27deba3d1a294098298',
-    messagingSenderId: '1006878898505',
-    projectId: 'flutter-revo-firsttest',
-    storageBucket: 'flutter-revo-firsttest.appspot.com',
-    iosClientId: '1006878898505-v0smp6j3ed94llu8nostq4gilt75vosc.apps.googleusercontent.com',
-    iosBundleId: 'com.example.myApp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDgDVfMHz_XPN6AeCJlLWx8w2xLG6s_QZY',
-    appId: '1:1006878898505:ios:49a27deba3d1a294098298',
-    messagingSenderId: '1006878898505',
-    projectId: 'flutter-revo-firsttest',
-    storageBucket: 'flutter-revo-firsttest.appspot.com',
-    iosClientId: '1006878898505-v0smp6j3ed94llu8nostq4gilt75vosc.apps.googleusercontent.com',
-    iosBundleId: 'com.example.myApp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 }
